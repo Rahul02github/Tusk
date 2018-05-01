@@ -6,7 +6,8 @@ welcome telscope kitchen
 kheer
 pasta
 chken fry
-
+beans 
+pizza
 
 
 Thank you
